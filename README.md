@@ -1,3 +1,3 @@
 # hello-world
 Program which says "Hello, world'
-My name is Catherine.
+I like to swim.
